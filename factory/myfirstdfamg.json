@@ -1,0 +1,9 @@
+{
+	"name": "myfirstdfamg",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dc07aa49-f281-4dd4-9fc2-d1aa32e366c7",
+		"tenantId": "97cb861b-5432-4805-a61a-67421f5bb6ac"
+	}
+}
